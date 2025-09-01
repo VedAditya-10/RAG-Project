@@ -1,0 +1,44 @@
+# ======================
+# Python
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.db
+
+# ======================
+# Virtual Environments
+# ======================
+.venv/
+venv/
+ENV/
+env/
+
+# ======================
+# Jupyter
+# ======================
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# ======================
+# Environment Variables
+# ======================
+.env
+*.env
+
+# ======================
+# OS / Editor files
+# ======================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ======================
+# Data / Models (optional, if large)
+# ======================
+/chroma_db/
+/models/
+/data/
