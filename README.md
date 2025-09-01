@@ -1,7 +1,9 @@
 # RAG Project
 
 This is a Retrieval-Augmented Generation (RAG) system built with [LangChain](https://www.langchain.com/), [ChromaDB](https://www.trychroma.com/), and multiple LLM providers (OpenAI, Anthropic, Google GenAI, LLaMA).  
-It allows you to load documents, store embeddings in a vector database, and query them using LLMs.
+I have loaded the syllabus of my college in the data folder.As per the usecase and purpose just modify the knowledge base and queries.
+You can load documents, store embeddings in a vector database,ChromaDB in this case. and query them using LLMs.
+I have loaded the syllabus of my college in the data folder.
 
 ---
 
